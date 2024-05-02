@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Hello World In A Bottle</title>
+<title>index</title>
 <style type="text/css">
 body {
     margin: 25px;
@@ -45,7 +45,7 @@ window.onload = add_validation_links;
 <body>
 
 <main>
-<h1>{{message}}</h1>
+<h1></h1>
 
 <p>index</p>
 <a href="page1.tpl">Page 1</a>

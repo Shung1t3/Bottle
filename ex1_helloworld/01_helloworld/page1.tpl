@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Hello World In A Bottle</title>
+<title>Page 1</title>
 <style type="text/css">
 body {
     margin: 25px;
@@ -49,7 +49,7 @@ window.onload = add_validation_links;
 
 <p>This is page 1<br>
 </p>
-<a href="page2.tpl">Page 2</a>
+<a href="page2">Page 2</a>
 </main>
 
 <footer>
