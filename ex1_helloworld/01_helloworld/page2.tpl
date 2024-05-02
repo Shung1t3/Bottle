@@ -45,10 +45,10 @@ window.onload = add_validation_links;
 <body>
 
 <main>
-<h1>{{message}}</h1>
+<h1>Page 2</h1>
 
-<p>Add <code>/[message]</code> (example: <code>/New York</code>) to change
-the message.</p>
+<p>This is page 2<br></p>
+<a href="page1.tpl">Page 1</a>
 </main>
 
 <footer>

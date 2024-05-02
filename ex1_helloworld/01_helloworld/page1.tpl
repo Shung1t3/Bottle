@@ -45,9 +45,11 @@ window.onload = add_validation_links;
 <body>
 
 <main>
-<h1>{{message}}</h1>
+<h1>Page 1</h1>
 
-<p>This is page 1</p>
+<p>This is page 1<br>
+</p>
+<a href="page2.tpl">Page 2</a>
 </main>
 
 <footer>

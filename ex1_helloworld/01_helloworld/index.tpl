@@ -48,6 +48,8 @@ window.onload = add_validation_links;
 <h1>{{message}}</h1>
 
 <p>index</p>
+<a href="page1.tpl">Page 1</a>
+<a href="page2.tpl">Page 2</a>
 </main>
 
 <footer>
