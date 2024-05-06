@@ -49,7 +49,7 @@ window.onload = add_validation_links;
 <h1>Page 2</h1>
 
 <p>This is page 2<br></p>
-<a href="page1">Page 1</a>
+<a href="http://localhost:8090/page1">Page 1</a>
 </main>
 
 <footer>
