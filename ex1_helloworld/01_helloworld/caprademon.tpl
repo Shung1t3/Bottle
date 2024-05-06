@@ -46,7 +46,7 @@ window.onload = add_validation_links;
 <body>
 
 <main>
-<h1>Capra Demon</h1>
+<h1>Boss 3: Capra Demon</h1>
 <img src="images/capra.jpeg" alt="capra demon">
 <p>While not necessarily the third boss of the game, defeating it is necessary to progress to the depths and eventually to one of The Bells of Awakening. It is a lot shorter than the Taurus demon but also a lot faster and more agile. Additionally, the demon is accompanied by two dogs during the fight which will also attack you. <br>
 </p>

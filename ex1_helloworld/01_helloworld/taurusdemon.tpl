@@ -47,7 +47,7 @@ window.onload = add_validation_links;
 <body>
 
 <main>
-<h1>Taurus Demon</h1>
+<h1>Boss 2: Taurus Demon</h1>
 <img src="images/taurus.jpeg" alt="taurus demon" >
 <p>The Taurus demon will be the second boss you encounter. It is found in the upper section of the undead burg. Originally, demons were created by the bed of chaos in lost Izalith; the Taurus demon you encounter in the undead burg may have been lost or seeking something. <br>
 </p>
