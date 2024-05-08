@@ -47,7 +47,7 @@ window.onload = add_validation_links;
 
 <main>
 <h1>Boss 1: Asylum Demon</h1>
-<img src="/images/asylum.jpg" alt="asylum demon">
+<img src="images/asylum.jpg" alt="asylum demon">
 <p>The asylum demon is the first boss the player will encounter and it blocks the exit to the undead asylum. It serves as a trial for undead that wish to exit the asylum and go to lordran in order to link the flame. <br>
 </p>
 <h2>Noteworthy Drops</h2>
